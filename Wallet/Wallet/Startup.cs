@@ -5,8 +5,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using SeptaPay.Platform.Wallet.Domain.Settings;
 using System.Text.Json.Serialization;
-using Wallet.Domain.Settings;
 
 namespace SeptaPay.Platform.Wallet
 {
