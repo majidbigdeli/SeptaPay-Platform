@@ -9,7 +9,7 @@ using System;
 using System.Diagnostics;
 using System.IO;
 
-namespace Wallet
+namespace SeptaPay.Platform.Wallet
 {
     public class Program
     {

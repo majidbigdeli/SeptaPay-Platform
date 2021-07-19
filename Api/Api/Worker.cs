@@ -1,12 +1,10 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Api
+namespace SeptaPay.Platform.Api
 {
     public class Worker : BackgroundService
     {

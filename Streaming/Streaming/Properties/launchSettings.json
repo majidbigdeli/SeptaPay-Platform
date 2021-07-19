@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "Streaming": {
+    "SeptaPay.Platform.Streaming": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "environmentVariables": {

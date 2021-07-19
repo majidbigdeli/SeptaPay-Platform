@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Pos
+namespace SeptaPay.Platform.Pos
 {
     public class Worker : BackgroundService
     {

@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "Messaging": {
+    "SeptaPay.Platform.Messaging": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "environmentVariables": {

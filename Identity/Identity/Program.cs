@@ -9,7 +9,7 @@ using System;
 using System.Diagnostics;
 using System.IO;
 
-namespace Identity
+namespace SeptaPay.Platform.Identity
 {
     public class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace Pos.Domain.Settings
+﻿namespace SeptaPay.Platform.Pos.Domain.Settings
 {
     public class BaseAppSetting
     {

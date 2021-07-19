@@ -9,7 +9,7 @@ using System;
 using System.Diagnostics;
 using System.IO;
 
-namespace Pos
+namespace SeptaPay.Platform.Pos
 {
     public class Program
     {

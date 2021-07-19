@@ -1,8 +1,8 @@
-﻿using Accounting.Domain.Settings;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
+using SeptaPay.Platform.Accounting.Domain.Settings;
 
-namespace Accounting.Controllers
+namespace SeptaPay.Platform.Accounting.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

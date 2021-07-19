@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Identity
+namespace SeptaPay.Platform.Identity
 {
     public class Worker : BackgroundService
     {

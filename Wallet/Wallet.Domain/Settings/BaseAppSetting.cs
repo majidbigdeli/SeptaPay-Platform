@@ -1,4 +1,4 @@
-﻿namespace Wallet.Domain.Settings
+﻿namespace SeptaPay.Platform.Wallet.Domain.Settings
 {
     public class BaseAppSetting
     {

@@ -5,10 +5,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using Pos.Domain.Settings;
+using SeptaPay.Platform.Pos.Domain.Settings;
 using System.Text.Json.Serialization;
 
-namespace Pos
+namespace SeptaPay.Platform.Pos
 {
     public class Startup
     {

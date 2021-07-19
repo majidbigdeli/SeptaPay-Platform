@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "Api": {
+    "SeptaPay.Platform.Api": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "environmentVariables": {

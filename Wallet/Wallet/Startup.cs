@@ -8,7 +8,7 @@ using Microsoft.OpenApi.Models;
 using System.Text.Json.Serialization;
 using Wallet.Domain.Settings;
 
-namespace Wallet
+namespace SeptaPay.Platform.Wallet
 {
     public class Startup
     {
