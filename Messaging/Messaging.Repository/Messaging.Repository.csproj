@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SeptaPay.Platform.Messaging.Repository</AssemblyName>
+    <RootNamespace>SeptaPay.Platform.Messaging.Repository</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Messaging.Domain\Messaging.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

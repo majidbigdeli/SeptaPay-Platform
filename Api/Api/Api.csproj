@@ -1,10 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+<Project Sdk="Microsoft.NET.Sdk.Worker">
 
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
-		<UserSecretsId>dotnet-Accounting-3FA772B8-F8F3-4CD1-AF10-7C03565314D7</UserSecretsId>
-		<AssemblyName>SeptaPay.Platform.Accounting</AssemblyName>
-		<RootNamespace>SeptaPay.Platform.Accounting</RootNamespace>
+		<UserSecretsId>dotnet-Api-5C332B55-0196-4666-B079-693CBDB4F845</UserSecretsId>
+		<AssemblyName>SeptaPay.Platform.Api</AssemblyName>
+		<RootNamespace>SeptaPay.Platform.Api</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -23,7 +23,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Accounting.Service\Accounting.Service.csproj" />
+	  <ProjectReference Include="..\Api.Service\Api.Service.csproj" />
 	</ItemGroup>
-
 </Project>

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SeptaPay.Platform.Accounting.Domain</AssemblyName>
+    <RootNamespace>SeptaPay.Platform.Accounting.Domain</RootNamespace>
   </PropertyGroup>
 	<ItemGroup>
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />

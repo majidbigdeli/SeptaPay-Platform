@@ -3,6 +3,8 @@
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
 		<UserSecretsId>dotnet-Wallet-C1406A38-8533-42DF-88D9-173BDD76F2D2</UserSecretsId>
+		<AssemblyName>SeptaPay.Platform.Wallet</AssemblyName>
+		<RootNamespace>SeptaPay.Platform.Wallet</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>

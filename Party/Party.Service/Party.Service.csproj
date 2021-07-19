@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SeptaPay.Platform.Party.Service</AssemblyName>
+    <RootNamespace>SeptaPay.Platform.Party.Service</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

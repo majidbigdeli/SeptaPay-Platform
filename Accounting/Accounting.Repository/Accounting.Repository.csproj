@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SeptaPay.Platform.Accounting.Repository</AssemblyName>
+    <RootNamespace>SeptaPay.Platform.Accounting.Repository</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -3,6 +3,8 @@
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
 		<UserSecretsId>dotnet-Identity-1C12A660-49C8-4605-A6B7-869FC5A95AC5</UserSecretsId>
+		<AssemblyName>SeptaPay.Platform.Identity</AssemblyName>
+		<RootNamespace>SeptaPay.Platform.Identity</RootNamespace>
 	</PropertyGroup>
 
 

@@ -1,10 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+<Project Sdk="Microsoft.NET.Sdk.Worker">
 
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
-		<UserSecretsId>dotnet-Accounting-3FA772B8-F8F3-4CD1-AF10-7C03565314D7</UserSecretsId>
-		<AssemblyName>SeptaPay.Platform.Accounting</AssemblyName>
-		<RootNamespace>SeptaPay.Platform.Accounting</RootNamespace>
+		<UserSecretsId>dotnet-Streaming-0C78C3EA-60FD-4008-8BDB-D2D290E24C99</UserSecretsId>
+		<AssemblyName>SeptaPay.Platform.Streaming</AssemblyName>
+		<RootNamespace>SeptaPay.Platform.Streaming</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -23,7 +23,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Accounting.Service\Accounting.Service.csproj" />
+	  <ProjectReference Include="..\Streaming.Service\Streaming.Service.csproj" />
 	</ItemGroup>
-
 </Project>

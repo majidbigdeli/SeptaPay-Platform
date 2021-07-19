@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SeptaPay.Platform.Streaming.Repository</AssemblyName>
+    <RootNamespace>SeptaPay.Platform.Streaming.Repository</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Streaming.Domain\Streaming.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

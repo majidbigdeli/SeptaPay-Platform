@@ -2,11 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <AssemblyName>SeptaPay.Platform.Party.Domain</AssemblyName>
-    <RootNamespace>SeptaPay.Platform.Party.Domain</RootNamespace>
+    <AssemblyName>SeptaPay.Platform.Messaging.Domain</AssemblyName>
+    <RootNamespace>SeptaPay.Platform.Messaging.Domain</RootNamespace>
   </PropertyGroup>
+
 	<ItemGroup>
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />
 	</ItemGroup>
-	
+
 </Project>
